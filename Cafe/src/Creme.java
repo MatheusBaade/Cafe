@@ -9,7 +9,7 @@ public class Creme extends CafeDecorator {
 	@Override
 	public void preparar() {
 		super.preparar();
-		System.out.println("Creme de baunilha");
+		System.out.println("Creme");
 
 	}
 
